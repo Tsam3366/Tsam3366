@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in backend
 ![LeetCode Stats](https://leetcard.jacoblin.cool/tsam3366?theme=forest&font=Alegreya%20Sans)
 
 - ✅ **200+** AlgoExpert problems (Completed: **35/200**, Goal: **200/200**)
-- 🏆 **Outstanding Excellence Award (2023)** for seamless D365-Siebel data integration
+- 🏆 **Outstanding Excellence Award (2023)**
 
 ---
 
