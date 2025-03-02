@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in backend
 📍 **Location:** Tirunelveli, Tamil Nadu, India  
 📧 **Email:** [thiravisamraj@gmail.com](mailto:thiravisamraj@gmail.com)  
 📞 **Phone:** +91 8838173366  
-🔗 **[LinkedIn](https://www.linkedin.com/in/sam-manickaraj/)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/tsam3366/)**  
 
 🚀 **Let's build something amazing together!**
 
